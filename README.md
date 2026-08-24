@@ -2,6 +2,11 @@
 
 把"云听歌"Fabric mod 的服务端逻辑复刻到 Paper 服务端的插件。玩家在服务器内通过网易云点歌，全服装了客户端 mod 的玩家同步聆听——进服自动跟播当前进度，歌词、封面、正在播放 HUD 一应俱全。
 
+## 环境要求
+
+- 服务端：Paper 26.1.x（`api-version: 26.1.2`），Java 25
+- 客户端：原"云听歌"Fabric mod（Minecraft 26.1+、Fabric Loader ≥ 0.19.3、Fabric API）
+
 ## 工作原理
 
 | 角色 | 职责 |
