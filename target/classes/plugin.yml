@@ -1,0 +1,16 @@
+name: CloudMusicSync
+version: 1.0.0
+main: cn.cloudmusic.paper.CloudMusicPlugin
+api-version: '26.1.2'
+description: 网易云音乐同步播放 Paper 插件
+author: doorbi
+commands:
+  music:
+    description: 云听歌控制命令
+    usage: /music
+    permission: cloudmusic.use
+permissions:
+  cloudmusic.use:
+    default: true
+  cloudmusic.admin:
+    default: op

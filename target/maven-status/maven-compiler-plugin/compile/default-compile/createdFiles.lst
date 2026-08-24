@@ -1,0 +1,6 @@
+cn\cloudmusic\paper\Codec.class
+cn\cloudmusic\paper\Codec$PacketReader.class
+cn\cloudmusic\paper\MusicManager$Song.class
+cn\cloudmusic\paper\MusicManager.class
+cn\cloudmusic\paper\CloudMusicPlugin.class
+cn\cloudmusic\paper\PayloadService.class
