@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.cloudmusic</groupId>
     <artifactId>cloudmusic-sync-paper</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-beta</version>
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
