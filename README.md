@@ -72,7 +72,7 @@ mvn -DskipTests package
 
 本插件的服务端逻辑复刻自 **doorbi** 的"云听歌"（cloudmusic_sync）Fabric mod，该 mod 在其 `fabric.mod.json` 中声明为 **MIT License** 发布。
 
-分发本插件时须保留原作者版权声明与 MIT 许可证全文（见 `LICENSE`）。客户端 mod 请从原作者的发布渠道获取，本仓库不提供客户端 mod 的下载与再分发。
+分发本插件时我们保留保留原作者版权声明与 MIT 许可证全文（见 `LICENSE`）。客户端 mod 请从原作者的发布渠道获取，本仓库不提供客户端 mod 的下载与再分发。
 
 ## 目录结构
 
